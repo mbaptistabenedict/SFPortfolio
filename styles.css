@@ -322,6 +322,7 @@ iframe.CV {
   display: flex;
   flex-direction: column;
   margin: 50px auto;
+  background-color: #d2cbbb;
 }
 
 /* FOOTER */
