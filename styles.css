@@ -316,6 +316,14 @@ iframe.CV {
   height: 100vh;
 }
 
+/* BLOG */
+
+.blog {
+  display: flex;
+  flex-direction: column;
+  margin: 50px auto;
+}
+
 /* FOOTER */
 
 .footer {
